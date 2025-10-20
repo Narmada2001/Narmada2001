@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Narmada!;Full+Stack+Developer;UI%2FUX+Designer;Tech+Enthusiast;Always+learning+new+things!" alt="Typing Animation" />
 </p>
 
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Narmada2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -44,13 +49,13 @@
 
 ## 🌟 Featured Projects
 
-- 🦠 [**Dengue Guard Management System**](https://github.com/Narmada2001/DengueGuard)  
+- 🦠 [**Dengue Guard Management System**](https://github.com/NarmadaGunathilaka/DengueGuard)  
   Web-based platform for managing dengue patient data, wards, and vitals securely.
 
-- 🍽️ [**KaviFood Delivery Platform**](https://github.com/Narmada2001/KaviFood)  
+- 🍽️ [**KaviFood Delivery Platform**](https://github.com/NarmadaGunathilaka/KaviFood)  
   Interactive food delivery system with user authentication and responsive UI.
 
-- 🏪 [**Store Management System**](https://github.com/Narmada2001/StoreManagement)  
+- 🏪 [**Store Management System**](https://github.com/NarmadaGunathilaka/StoreManagement)  
   Desktop application designed to manage product inventory and billing operations.
 
 ---
@@ -58,11 +63,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narmada2001&show_icons=true&theme=tokyonight" alt="Narmada's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NarmadaGunathilaka&show_icons=true&theme=tokyonight" alt="Narmada's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada2001&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarmadaGunathilaka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -71,9 +76,9 @@
 
 <p align="center">
   <a href="mailto:narmadagunathilaka9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/narmada-gunathilaka-2818372a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://my-portfolio-website-eosin-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Narmada2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/narmadagunathilaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://narmada.vercel.app](https://my-portfolio-website-eosin-omega.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/NarmadaGunathilaka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
