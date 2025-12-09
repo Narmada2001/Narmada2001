@@ -58,17 +58,7 @@
 - 🏪 [**Store Management System**](https://github.com/NarmadaGunathilaka/StoreManagement)  
   Desktop application designed to manage product inventory and billing operations.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narmada2001&show_icons=true&theme=tokyonight" alt="Narmada's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada2001&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
